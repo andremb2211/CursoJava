@@ -26,7 +26,7 @@ public class Departamento {
 	
 	
 	public int getCod() {
-		return cod;
+		return cod; 
 	}
 	public void setCod(int cod) {
 		this.cod = cod;

@@ -21,7 +21,7 @@ public class Funcionario {
 
    @Override
    public String toString() {
-      return new StringBuilder("Funcionario ").append(this.nome).toString();
+      return new StringBuilder("Funcionario: ").append(this.nome).toString();
    }
    
    

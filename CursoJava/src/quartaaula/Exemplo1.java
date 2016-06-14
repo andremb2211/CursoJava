@@ -9,8 +9,7 @@ public class Exemplo1 {
 		int junho = meses[5]; // inicia em 0
 		junho =6;
 		
-		
-		
+
 		System.out.println(meses[5]);
 		System.out.println(junho);
 		
